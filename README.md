@@ -15,8 +15,8 @@
 
 ---
 
-### 👋 **Quick Intro**
+### 🌟 **Currently**  
 ```diff
-+ I build things for the web with a touch of magic (and JavaScript).
-+ My website is my playground—check it out below!
-# Currently: [what you're working on, e.g., "designing a new portfolio feature"].
+! 🎓 Finalizing my 3rd year in Computer Science  
+! 🔍 Seeking work opportunities that sync with my Master's schedule  
++ Open to: Internships | Part-time roles | Project collaborations  
