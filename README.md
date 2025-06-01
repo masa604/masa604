@@ -17,6 +17,6 @@
 
 ### 🌟 **Currently**  
 ```diff
-! 🎓 Finalizing my 3rd year in Computer Science  
+! 🎓 Finalizing my 3rd year in Computer Science at the University of Coimbra
 ! 🔍 Seeking work opportunities that sync with my Master's schedule  
 + Open to: Internships | Part-time roles | Project collaborations  
