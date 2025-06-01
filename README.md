@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Digital creator | Full Stack Explorer | <a href="https://yourwebsite.com">My Website</a>
+  Digital creator | Full Stack Explorer
 </h3>
 
 <p align="center">
