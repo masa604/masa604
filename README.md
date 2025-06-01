@@ -1,6 +1,5 @@
 <h1 align="center">
-  ✨ Hi, I'm Magda Nunes! ✨ <br/>
-  <sub><i>"Turning stress into code (officially) since 2022 ☕"</i></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=FF7139&background=FFFFFF00&center=true&width=500&lines=✨+Hi,+I'm+[SEU+NOME]!+✨;🚀+[SEU+TÍTULO];🔒+[SEU+INTERESSE];☕+[SUA+FRASE]" alt="Animated Title" />
 </h1>
 
 <h3 align="center">
