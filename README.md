@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
+  <a href="https://masa604.github.io/portfolio/"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/magda-nunes-4650b4282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
