@@ -1,6 +1,6 @@
 <h1 align="center">
   ✨ Hi, I'm Magda Nunes! ✨ <br/>
-  <sub><i>"Turning stress into code since 2022 ☕"</i></sub>
+  <sub><i>"Turning stress into code (officially) since 2022 ☕"</i></sub>
 </h1>
 
 <h3 align="center">
