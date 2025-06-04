@@ -26,7 +26,7 @@
 
 ### 🚀 Main Projects
 
-[![Football Simulator](https://img.shields.io/badge/⚽_Football_Game-4BC51D?style=for-the-badge&logo=python&logoColor=white)](https://github.com/masa604/FootballGame)
+[![Football Simulator](https://img.shields.io/badge/⚽_Football_Game-6E57FF?style=for-the-badge&logo=python&logoColor=white)](https://github.com/masa604/FootballGame)
 
 A Python-based football simulation game using Turtle graphics, featuring:
 - 2-player controls
@@ -40,6 +40,6 @@ Java quiz game demonstrating OOP principles:
 - Question database
 - Score system
 
-[![Personal Portfolio](https://img.shields.io/badge/🌟_Portfolio-FF7139?style=for-the-badge&logo=html5&logoColor=white)](https://masa604.github.io/portfolio/)
+[![Personal Portfolio](https://img.shields.io/badge/🌟_Portfolio-6E57FF?style=for-the-badge&logo=html5&logoColor=white)](https://masa604.github.io/portfolio/)
 
 
