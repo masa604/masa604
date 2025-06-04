@@ -20,10 +20,10 @@
 ! 🎓 Finalizing my 3rd year in Computer Science at the University of Coimbra
 ! 🔍 Seeking work opportunities that sync with my Master's schedule  
 + Open to: Internships | Part-time roles | Project collaborations  
+```
 
----
 
-## 🚀 Featured Projects
+## 🚀 Main Projects
 
 ### 🎮 Game Development
 [![Foosball Simulator](https://img.shields.io/badge/🎯_Foosball_Game-4BC51D?style=for-the-badge&logo=python&logoColor=white)](https://github.com/masa604/foosball_alunos)
@@ -62,11 +62,3 @@ Java quiz game demonstrating OOP principles:
 - Score system
 
 [View Project →](https://github.com/masa604/POOTrivia)
-
----
-
-## 📚 Currently Learning
-```diff
-+ Advanced Java & Spring Framework
-+ Cloud Computing Concepts
-# Web Security Fundamentals
