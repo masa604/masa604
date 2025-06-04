@@ -25,7 +25,6 @@
 
 ## 🚀 Main Projects
 
-### Football Game Simulator
 [![Football Simulator](https://img.shields.io/badge/🎯_Foosball_Game-4BC51D?style=for-the-badge&logo=python&logoColor=white)](https://github.com/masa604/FootballGame)
 
 A Python-based football simulation game using Turtle graphics, featuring:
@@ -33,7 +32,6 @@ A Python-based football simulation game using Turtle graphics, featuring:
 - Score tracking
 - VAR replay system
 
-### POO Trivia Game
 [![POO Trivia](https://img.shields.io/badge/❓_POO_Trivia-6E57FF?style=for-the-badge&logo=java&logoColor=white)](https://github.com/masa604/POOTrivia)
 
 Java quiz game demonstrating OOP principles:
@@ -41,8 +39,6 @@ Java quiz game demonstrating OOP principles:
 - Question database
 - Score system
 
-
-### Web Portfolio
 [![Personal Portfolio](https://img.shields.io/badge/🌟_Portfolio-FF7139?style=for-the-badge&logo=html5&logoColor=white)](https://masa604.github.io/portfolio/)
 
 
