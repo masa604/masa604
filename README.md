@@ -25,7 +25,7 @@
 
 ## 🚀 Main Projects
 
-[![Football Simulator](https://img.shields.io/badge/🎯_Foosball_Game-4BC51D?style=for-the-badge&logo=python&logoColor=white)](https://github.com/masa604/FootballGame)
+[![Football Simulator](https://img.shields.io/badge/🎯_Football_Game-4BC51D?style=for-the-badge&logo=python&logoColor=white)](https://github.com/masa604/FootballGame)
 
 A Python-based football simulation game using Turtle graphics, featuring:
 - 2-player controls
