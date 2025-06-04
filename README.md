@@ -22,6 +22,7 @@
 + Open to: Internships | Part-time roles | Project collaborations  
 ```
 
+---
 
 ## 🚀 Main Projects
 
