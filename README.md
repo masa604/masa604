@@ -20,9 +20,3 @@
 ! 🎓 Finalizing my 3rd year in Computer Science at the University of Coimbra
 ! 🔍 Seeking work opportunities that sync with my Master's schedule  
 + Open to: Internships | Part-time roles | Project collaborations  
-
----
-
-### 🖥️ ** Main Projects**
-```diff
-https://github.com/masa604/POOTrivia
