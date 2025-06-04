@@ -27,7 +27,6 @@
 
 ### Football Game Simulator
 [![Football Simulator](https://img.shields.io/badge/🎯_Foosball_Game-4BC51D?style=for-the-badge&logo=python&logoColor=white)](https://github.com/masa604/foosball_alunos)
-[![Languages](https://img.shields.io/github/languages/top/masa604/foosball_alunos?style=flat-square)]()
 
 A Python-based football simulation game using Turtle graphics, featuring:
 - 2-player controls
@@ -45,6 +44,5 @@ Java quiz game demonstrating OOP principles:
 
 ### Web Portfolio
 [![Personal Portfolio](https://img.shields.io/badge/🌟_Portfolio-FF7139?style=for-the-badge&logo=html5&logoColor=white)](https://masa604.github.io/portfolio/)
-[![Languages](https://img.shields.io/github/languages/top/masa604/foosball_alunos?style=flat-square)]()
 
 
