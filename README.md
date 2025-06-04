@@ -4,15 +4,22 @@
 </h1>
 
 <h3 align="center">
-  Computer Science Student | Full Stack Developer
+  Computer Science Student | Full Stack Explorer
 </h3>
 
 <p align="center">
   <a href="https://masa604.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/magda-nunes-4650b4282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:magmar406@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/masa604"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+---
+
+### 🌟 **Currently**  
+```diff
+! 🎓 Finalizing my 3rd year in Computer Science at the University of Coimbra
+! 🔍 Seeking work opportunities that sync with my Master's schedule  
++ Open to: Internships | Part-time roles | Project collaborations  
 
 ---
 
