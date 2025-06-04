@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Main Projects
+### 🚀 Main Projects
 
 [![Football Simulator](https://img.shields.io/badge/🎯_Football_Game-4BC51D?style=for-the-badge&logo=python&logoColor=white)](https://github.com/masa604/FootballGame)
 
