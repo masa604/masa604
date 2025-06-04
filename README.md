@@ -39,7 +39,3 @@ Java quiz game demonstrating OOP principles:
 - Swing GUI
 - Question database
 - Score system
-
-[![Personal Portfolio](https://img.shields.io/badge/Personal_Portfolio-6E57FF?style=for-the-badge)](https://masa604.github.io/portfolio/)
-
-
