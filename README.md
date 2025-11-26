@@ -17,7 +17,7 @@
 
 ### 🌟 **Currently**  
 ```diff
-! 🎓 Finalizing my 3rd year in Computer Science at the University of Coimbra
+! 🎓 On my 1st year of the Master's program in Computer Science at IST
 ! 🔍 Seeking work opportunities that sync with my Master's schedule  
 + Open to: Internships | Part-time roles | Project collaborations  
 ```
