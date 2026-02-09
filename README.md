@@ -18,8 +18,8 @@
 ### 🌟 **Currently**  
 ```diff
 ! 🎓 On my 1st year of the Master's program in Computer Science at IST
-! 🔍 Seeking work opportunities that sync with my Master's schedule  
-+ Open to: Internships | Part-time roles | Project collaborations  
+! 🔍 Currently working as a Technical Support Engineer at Cloudflare  
++ Open to: Research Programs | Project collaborations  
 ```
 
 ---
